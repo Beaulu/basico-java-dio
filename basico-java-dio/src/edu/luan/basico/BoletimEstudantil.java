@@ -11,5 +11,11 @@ public class BoletimEstudantil {
 		}else {
 					System.out.println("APROVADO");
 		}
+		
+		int numero = 5;
+		System.out.println(- numero );
+		numero += 5;
+		System.out.println(numero );
+		
 	}
 }
