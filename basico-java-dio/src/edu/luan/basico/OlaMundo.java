@@ -1,4 +1,4 @@
-package basico;
+package edu.luan.basico;
 
 public class OlaMundo {
 	
